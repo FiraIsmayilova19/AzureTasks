@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "queuetask.client", "queuetask.client\queuetask.client.esproj", "{09BA702E-6D9B-6DB1-4F6A-622C162F196E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueueTask.Server", "QueueTask.Server\QueueTask.Server.csproj", "{294CB78A-448C-4CF7-A423-469FA7933763}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09BA702E-6D9B-6DB1-4F6A-622C162F196E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09BA702E-6D9B-6DB1-4F6A-622C162F196E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09BA702E-6D9B-6DB1-4F6A-622C162F196E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{09BA702E-6D9B-6DB1-4F6A-622C162F196E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09BA702E-6D9B-6DB1-4F6A-622C162F196E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09BA702E-6D9B-6DB1-4F6A-622C162F196E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{294CB78A-448C-4CF7-A423-469FA7933763}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{294CB78A-448C-4CF7-A423-469FA7933763}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{294CB78A-448C-4CF7-A423-469FA7933763}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{294CB78A-448C-4CF7-A423-469FA7933763}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3343865-B63F-4293-B6D4-4573BB17B81A}
+	EndGlobalSection
+EndGlobal
